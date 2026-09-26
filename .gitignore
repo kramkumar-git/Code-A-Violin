@@ -1,0 +1,16 @@
+# Python build & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Local blog, articles, and social media drafts (strictly local, never tracked in git)
+posts/
+blogs/
+*.draft.md
